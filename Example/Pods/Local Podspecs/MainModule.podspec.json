@@ -1,0 +1,22 @@
+{
+  "name": "MainModule",
+  "version": "0.1.0",
+  "summary": "A short description of MainModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jliussuweno/MainModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jliussuweno": "jliuss@live.com"
+  },
+  "source": {
+    "git": "https://github.com/jliussuweno/MainModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MainModule/Classes/**/*"
+}
